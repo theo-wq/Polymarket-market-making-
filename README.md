@@ -177,12 +177,6 @@ Key parameters in `slippage.py`:
 
 This project is under MIT license. See the `LICENSE` file for more details.
 
-## 🙏 Support
-
-For any questions or issues:
-1. Check the logs in the `logs/` folder
-2. Verify Telegram messages
-3. Open an issue on the repository
 
 ---
 ⚡ Developed with ❤️ for Polymarket
