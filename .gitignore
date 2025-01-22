@@ -1,0 +1,35 @@
+# Environment files
+.env
+.env.local
+.env.*
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Build directories
+dist/
+build/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+logs/
+
+# Temporary files
+*.tmp
+temp/

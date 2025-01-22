@@ -1,0 +1,13 @@
+{
+    "trading_parameters": {
+        "TOKEN_ID": "****************",
+        "size": 10,
+        "min_spread": "0.01",
+        "host": "https://clob.polymarket.com",
+        "spread_slip": 0.01
+    },
+    "chain_settings": {
+        "chain_id": 137,
+        "funder": "0xf1a07B7665891D79FDD106C4103Cd24EA84181aF"
+    }
+}
