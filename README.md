@@ -18,10 +18,10 @@ A high-performance automated trading bot for Polymarket, featuring ultra-low lat
 
 ## ⚡ Performance Highlights
 
-- Order book computation time: <2ms
-- Market condition analysis: <1ms
-- Order execution latency: ~5ms
-- Total decision cycle: <10ms
+- Order book computation time: <0.02s
+- Market condition analysis: <0.01s
+- Order execution latency: ~0.05s
+- Total decision cycle: <0.15ms
 
 ## 🛠️ Prerequisites
 
