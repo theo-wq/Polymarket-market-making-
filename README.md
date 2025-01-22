@@ -4,7 +4,7 @@ A high-performance automated trading bot for Polymarket, featuring ultra-low lat
 
 ## 📋 Key Features
 
-- Ultra-low latency order book analysis (<.15s computation time)
+- Ultra-low latency order book analysis (<0.15s computation time)
 - Advanced market analysis metrics:
   - Real-time volume imbalance detection
   - Multi-level price pressure analysis
